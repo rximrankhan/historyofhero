@@ -1,0 +1,89 @@
+*{
+font-family:arial;
+color:#5c5d5f;
+}
+header{
+box-shadow:0 1px 6px rgba(0, 0, 0, 0.175);
+}
+h2 {
+margin-top:15px;
+padding: 5px;
+}
+h5{
+margin-top:25px;
+color:#ff0097;
+}
+.navbar-collapse {
+padding: 8px;
+display: -ms-flexbox!important;
+display: flex!important;
+-ms-flex-preferred-size: auto;
+flex-basis: auto;
+}
+.baibars, .sultan-s, .sultan-f{
+margin-top:5px;
+padding:15px;
+line-height: 30px;
+text-align: justify;
+margin: 0px 40px 0px 0px;
+display: none;
+box-shadow:0 1px 4px rgba(0, 0, 0, 0.17);
+}
+.info-btn{
+height:36px;
+font-size:14px;
+margin-left:10px;
+background-color:#fff;
+border-color:rgba(0, 0, 0, 0.17);
+border-radius:4px;
+}
+
+.info-btn:hover{
+	background:#fbfbfb;
+}
+.col-sm-4{
+margin-top:1px;
+background:#f8f9fa;
+}
+.btn-default {
+box-shadow:0 0.5px 1px rgba(0, 0, 0, 0.15);
+color:#337ab7;
+margin-top:1px;
+width: 309px;
+height:46px;
+}
+.btn-default:hover{
+background:#eff2f5;
+color:#545658;
+}
+.t-hide{
+position:fixed;
+}
+#t-hide{
+margin-top:20px;
+display:none;
+}
+.send-btn{
+margin: 10px 0px 10px 105px;
+padding:8px;
+background-color:#c51162;
+border-color:#c51162;
+width:90px;
+color:#fff;
+}
+.my-btn{
+margin: 10px 0px 10px 105px;
+padding:8px;
+background-color:#eeeeee;
+border-color:#e7e7e7;
+width:90px;
+float:right;
+}
+.i-text{
+margin-top:5px;
+width:180px;
+padding:5px;
+}
+footer{
+margin-bottom:20px;
+}
